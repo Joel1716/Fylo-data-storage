@@ -18,7 +18,7 @@ main {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  background-image: url(images/bg-desktop.png);
+  background-image: url(bg-desktop.png);
   background-size: 1440px 50vh;
   background-position: bottom;
   background-repeat: no-repeat;
@@ -162,7 +162,7 @@ section {
     min-height: 500px;
   }
   main {
-    background-image: url(images/bg-mobile.png);
+    background-image: url(bg-mobile.png);
     height: 400px;
     width: 375px;
     display: flex;
